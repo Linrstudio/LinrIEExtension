@@ -1,4 +1,4 @@
-LinrIEExtension v1.0.6
+LinrIEExtension v1.1.1
 =======================
 
 ![主界面](https://github.com/Linrstudio/LinrIEExtension/blob/master/images/IEExtension.png?raw=true)
